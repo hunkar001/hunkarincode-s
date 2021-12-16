@@ -1,0 +1,8 @@
+Python:"Guýdo Van Rossum
+ruby:Yukihiro Matsumoto
+Java:"James Gosling"
+C:"Dennis Ritchie
+C++:"Bjarne Stroustrup"
+Javascript:"Corporation"
+C#:"Microsoft"
+Php:Rasmus Lerdorf
